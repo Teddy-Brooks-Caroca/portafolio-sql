@@ -1,0 +1,51 @@
+id_comunidad,nombre_comunidad,región_comunidad,lengua_materna,cantidad_habitantes_2024
+MAW-AR-001,Mapuche de Araucanía,Región de la Araucanía,Mapudungun,250000
+AYM-TA-002,Aymara de Tarapacá,Región de Tarapacá,Aymara,48000
+RAP-VA-003,Rapa Nui de Valparaíso,Región de Valparaíso,Rapanui,3000
+COY-BI-004,Colla de Biobío,Región de Biobío,Diaguita,2500
+DI?-AT-005,Diaguita de Atacama,Región de Atacama,Cacán,4000
+QUE-MA-006,Quechua de Magallanes,Región de Magallanes,Quechua,1200
+LIC-LI-007,Lickanantay de Antofagasta,Región de Antofagasta,Kunza,1500
+CHI-AI-008,Chango de Arica e Iquique,Región de Arica y Parinacota,Chango,800
+CON-AI-009,Changos de Antofagasta,Región de Antofagasta,Chango,600
+TIA-AI-010,Tiawanaku de Arica,Región de Arica y Parinacota,Aymara,1800
+PAC-AI-011,Pacajes de Arica,Región de Arica y Parinacota,Aymara,1000
+KAW-AR-012,Kawésqar de Magallanes,Región de Magallanes,Kawésqar,150
+YAG-MA-013,Yagán de Magallanes,Región de Magallanes,Yagán,100
+ATN-BI-014,Atacameños del Norte,Región de Biobío,Kunza,2200
+MAT-AI-015,Mapuche de Tarapacá,Región de Arica y Parinacota,Mapudungun,3500
+AIL-LI-016,Aimara de Arica,Región de Antofagasta,Aymara,5000
+QUE-AN-017,Quechua de Antofagasta,Región de Antofagasta,Quechua,2800
+KON-AR-018,Kunza de la Araucanía,Región de la Araucanía,Kunza,600
+HUI-AI-019,Huilliche de Arica,Región de Arica y Parinacota,Mapudungun,1200
+PEH-BI-020,Pehuenche de Biobío,Región de Biobío,Mapudungun,1800
+MAM-MA-021,Mapuche de Magallanes,Región de Magallanes,Mapudungun,2000
+ATM-LI-022,Atacameños del Centro,Región de Antofagasta,Kunza,1700
+COL-AT-023,Colla de Atacama,Región de Atacama,Colla,900
+DI?-BI-024,Diaguita de Biobío,Región de Biobío,Diaguita,1300
+AYM-AN-025,Aymara de Antofagasta,Región de Antofagasta,Aymara,4500
+QUI-AR-026,Quichua de la Araucanía,Región de la Araucanía,Quechua,700
+LIP-AI-027,Lican Antai de Arica,Región de Arica y Parinacota,Kunza,1600
+CHI-MA-028,Chono de Magallanes,Región de Magallanes,Chono,50
+TEH-BI-029,Tehuelche de Biobío,Región de Biobío,Tehuelche,400
+NAP-AI-030,Napa de Arica,Región de Arica y Parinacota,Aymara,600
+PUN-AN-031,Puna de Antofagasta,Región de Antofagasta,Aymara,1100
+TIC-LI-032,Ticnamar de Antofagasta,Región de Antofagasta,Aymara,300
+MAR-MA-033,Mapuche Williche de Magallanes,Región de Magallanes,Mapudungun,1500
+QUE-TA-034,Quechua de Tarapacá,Región de Tarapacá,Quechua,2200
+KAL-AR-035,Kallawaya de la Araucanía,Región de la Araucanía,Kallawaya,500
+HUI-BI-036,Huilliche de Biobío,Región de Biobío,Mapudungun,1000
+AIM-AI-037,Aimara de Arica e Iquique,Región de Arica y Parinacota,Aymara,4800
+DIG-AT-038,Diaguita de Atacama,Región de Atacama,Diaguita,2700
+PAC-TA-039,Pacajes de Tarapacá,Región de Tarapacá,Aymara,900
+YAM-LI-040,Yamana de Magallanes,Región de Magallanes,Yagán,80
+COL-AI-041,Colla de Arica,Región de Arica y Parinacota,Colla,300
+NAV-AN-042,Navajos de Antofagasta,Región de Antofagasta,Kunza,200
+TRA-AR-043,Tracanalín de la Araucanía,Región de la Araucanía,Mapudungun,400
+QUE-BI-044,Quechua de Biobío,Región de Biobío,Quechua,600
+LIC-AI-045,Lickanantay de Arica,Región de Arica y Parinacota,Kunza,1200
+CHO-MA-046,Chono de Magallanes,Región de Magallanes,Chono,70
+TEH-MA-047,Tehuelche de Magallanes,Región de Magallanes,Tehuelche,200
+HUI-TA-048,Huilliche de Tarapacá,Región de Tarapacá,Mapudungun,500
+AYM-LI-049,Aymara de Antofagasta,Región de Antofagasta,Aymara,4200
+PAC-BI-050,Pacajes de Biobío,Región de Biobío,Aymara,700
